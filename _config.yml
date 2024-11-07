@@ -1,5 +1,5 @@
 url:              https://i.makelove.expert
-baseurl:          
+baseurl:          /simonmysun.github.io
 
 markdown:         kramdown
 highlighter:      rouge
